@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Byar Par</h1>
 <h3 align="center">I am web developer and designer from Myitkyina, Myanmar.</h3>
+<br>
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byarpar&label=Profile%20views&color=0e75b6&style=flat" alt="byarpar" /> </p>
 
